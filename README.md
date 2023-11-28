@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Hello World](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- [Active Directory Home Lab](https://github.com/Jordan-Mill/Azure-SIEM-Lab/tree/main)
+- [Hello World](https://github.com/Jordan-Mill/Azure-SIEM-Lab/tree/main)
 
 <h2>📺 Popular YouTube Videos</h2>
 
